@@ -1,0 +1,33 @@
+.card {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png');
+    height: 100vh;
+    color: #ffffff;
+    padding: 15px;
+}
+
+.main-heading {
+    text-align: center;
+    color: #ffffff;
+    font-family: Roboto;
+    padding: 7px;
+    background-color: #323f4b;
+    padding: 0px;
+}
+
+.para {
+    text-align: right;
+    padding: 5px;
+    background-color: #47a3f3;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.para1 {
+    text-align: left;
+    padding: 5px;
+    background-color: #52606d;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
